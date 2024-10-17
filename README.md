@@ -23,9 +23,16 @@ Given the high cost of space launches, predicting the likelihood of successful f
 
 - **Programming**: Python, Jupyter, SQL
 - **Libraries**: Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Seaborn, Dash
-- **Machine Learning Models**: Logistic Regression, Random Forest, 
+- **Machine Learning Models**: Logistic Regression, Random Forest, K-Nearest Neghibors, Support Vector Machines 
   
 ## Results
 
-The predictive models developed in this project achieved significant accuracy in determining the success of first stage landings, providing insights that can help companies make informed decisions and competitive bids in the space launch industry.
+The predictive models developed in this project achieved significant accuracy in determining the success of first stage landings, providing insights that can help companies make informed decisions and competitive bids in the space launch industry. In this table we present the overal resuls of tested models on SpaceX dataset:<br>
+| Model                  | Accuracy  | Jaccard Index | F1 Score  |
+|------------------------|-----------|---------------|-----------|
+| Logistic Regression     | 0.833333  | 0.8           | 0.888889  |
+| Support Vector Machine  | 0.833333  | 0.8           | 0.888889  |
+| K-Nearest Neighbour     | 0.833333  | 0.8           | 0.888889  |
+| Decision Tree           | 0.833333  | 0.8           | 0.888889  |
+
 
