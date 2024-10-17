@@ -1,5 +1,5 @@
 
-# Rocket Landing Prediction
+# SpaceX Landing Prediction
 
 ## Project Overview
 
@@ -30,9 +30,9 @@ Given the high cost of space launches, predicting the likelihood of successful f
 The predictive models developed in this project achieved significant accuracy in determining the success of first stage landings, providing insights that can help companies make informed decisions and competitive bids in the space launch industry. In this table we present the overal resuls of tested models on SpaceX dataset:<br>
 | Model                  | Accuracy  | Jaccard Index | F1 Score  |
 |------------------------|-----------|---------------|-----------|
-| Logistic Regression     | 0.833333  | 0.8           | 0.888889  |
-| Support Vector Machine  | 0.833333  | 0.8           | 0.888889  |
-| K-Nearest Neighbour     | 0.833333  | 0.8           | 0.888889  |
-| Decision Tree           | 0.833333  | 0.8           | 0.888889  |
+| Logistic Regression     | 0.83  | 0.8           | 0.89  |
+| Support Vector Machine  | 0.83  | 0.8           | 0.89  |
+| K-Nearest Neighbour     | 0.83  | 0.8           | 0.89  |
+| Decision Tree           | 0.83  | 0.8           | 0.88  |
 
 
